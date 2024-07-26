@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Rajput</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushirajput18&label=Profile%20views&color=0e75b6&style=flat" alt="rushirajput18" /> </p>
-
 - 📫 How to reach me **rushikeshrajput666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
